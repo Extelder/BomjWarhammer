@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 020e05f8c33405d4494bb05fb1492ac3, type: 3}
+  m_Name: RedTeam
+  m_EditorClassIdentifier: 
+  <Id>k__BackingField: 1
+  <Material>k__BackingField: {fileID: 2100000, guid: 8e8847431573cb3438455b9e0ac9e975,
+    type: 2}
